@@ -1,8 +1,7 @@
 # nacos-unauthenticated  
-nacos图形化利用  
-javafx开发的java漏洞利用测试工具，省去打开bp的繁琐步骤  
-可以后续自行添加，欢迎star  
-本工具仅提供给安服仔进行安全自查使用  
-用户滥用造成的一切后果与作者无关  
-使用者请务必遵守当地法律  
-本程序不得用于商业用途，仅限学习交流  
+javafx图形化漏洞利用的demo
+使用java8+idea
+主要用于图形化的get，post
+![Image text](https://github.com/rookyinspire/nacos-unauthenticated/blob/master/image/Snipaste_2023-03-22_14-52-13.png)
+maven直接打包即可 mvn package
+![Image text](https://github.com/rookyinspire/nacos-unauthenticated/blob/master/image/Snipaste_2023-03-22_14-53-47.png)
